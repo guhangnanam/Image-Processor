@@ -20,4 +20,4 @@ Code is entirely written in the main file. Input images are also included for yo
 Pull requests are welcome. For major changes however please open up an issue for me to read before approving your change.
 
 ## Details
-Code is written in C++ and includes various ways to edit images, including Multiply, Subtraction, AddColor, Screen, Overlay, MultiplyColor, SeparateColor, Combine, Rotate. 
+Code is written in C++ and includes various ways to edit images, including Multiply, Subtraction, AddColor, Screen, Overlay, MultiplyColor, SeparateColor, Combine, Rotate. Output folder contains correct output for various functions using images within the input folder.
